@@ -9,7 +9,7 @@
     "build": "webpack"
   },
   "keywords": [],
-  "author": "",
+  "author": "Swapnil",
   "license": "ISC",
   "dependencies": {
     "connect-mongo": "^4.6.0",
